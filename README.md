@@ -2,7 +2,7 @@
 This section contains projects done during internship with Bizmetric
 1. Hostel_oops.ipnb
 2. Hotel_dbconnection.ipynb
-3. Assignment_1.ipynb
+3. Assignment_55.ipynb
 
 # Hostel_oops.ipnb 
 This python program is made to calculate the Fees of Student, keeping the following factors in mind:
