@@ -9,6 +9,6 @@ This python program is made to calculate the Fees of Student, keeping the follow
 ## Hostel option { Yes Y , No N}
 ## Food Duration[the duration of time you want food service]
 ## Course Analytics:
-    Course['HR','DS','MRKETING','FINANCE']
+    Course['HR','DS','MaRKETING','FINANCE']
     # amongs these only DS is available without Analytics
 ## Transportation[service of transporation for Semester or Annual]
